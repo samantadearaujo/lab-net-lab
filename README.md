@@ -1,4 +1,4 @@
-# lab-net-lab
+# lab-net-core
 Create new console 
 #dotnet new console -o App-Info-Year-Born -n console 
 
